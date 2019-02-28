@@ -1,2 +1,2 @@
-# Fake Ghost Client (C# OpenSource )
-Fake GhostClient.
+[!] Fake Cheat for Minecraft made in C# [!]
+[*] I s a hoke. [*]
